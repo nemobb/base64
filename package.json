@@ -1,6 +1,6 @@
 {
   "name": "@nemobb/base64",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "base64 encode and decode",
   "main": "dist/base64.js",
   "types": "dist/base64.d.ts",
